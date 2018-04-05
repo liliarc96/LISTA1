@@ -21,5 +21,5 @@ int main(){
             cout << "Muito baixo. Tente novamente.\n";
         }
     }
-    cout <<  "Acertou!";
+    cout <<  "Parabens! Voce adivinhou o numero.";
 }
